@@ -1,10 +1,10 @@
 # FriendList 📑
----
+
 
 Quickly added your friends in your friends list
 
 ### Steps For Clone this repository
-___
+
 
 #### Step 1 :arrow_right: Downloading this repository
 
