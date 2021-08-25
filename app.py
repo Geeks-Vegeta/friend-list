@@ -105,7 +105,7 @@ class FriendList:
                 pass
 
 
-             #   This is for hovering button
+        #   This is for hovering button
         def on_enter1(e):
             but_add['background']="black"
             but_add['foreground']="cyan"
