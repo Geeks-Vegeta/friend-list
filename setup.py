@@ -12,6 +12,6 @@ setuptools.setup(
     description="Adding your friends in friends list",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Geeks-Vegeta/wifi-password.git",
+    url="https://github.com/Geeks-Vegeta/friend-list.git",
     packages=setuptools.find_packages()
 )
